@@ -1,1 +1,1 @@
-# cpp_project
+### Simple project demonstrating major concepts of C++
